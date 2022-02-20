@@ -1,0 +1,11 @@
+.nav {
+	text-transform: capitalize;
+	font-weight: 700;
+	letter-spacing: 3px;
+}
+.hero {
+	text-transform: capitalize;
+}
+.bg-dark {
+	background-color: #000 !important;
+}

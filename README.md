@@ -1,3 +1,5 @@
 # Lemion Ecommerce Site!
-[lemion- h](https://user-images.githubusercontent.com/78864735/158996706-eab5f2a0-930b-4310-acad-872c8faf355b.png)
 
+
+
+![lemion- h](https://user-images.githubusercontent.com/78864735/158996768-10aa1b10-114d-4ef1-a1c4-ad010fe2b026.png)
